@@ -12,7 +12,7 @@ Developed as part of a frontend practice challenge to strengthen core web develo
 
 Add your GitHub Pages link here:
 
-https://your-github-pages-link.com
+https://rafiantoas.github.io/qr-code-component-ui/
 
 ---
 
